@@ -5,11 +5,11 @@
   <b>Eva Maria Bot</b>
 </h1>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Aadhi000/Ajax-Extra-Featurez">
+<a href="https://heroku.com/deploy?template=https://github.com/Zinan100/6gf">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p>
-
+https://github.com/Zinan100/6gf
 
 
 [![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
